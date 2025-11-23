@@ -3,9 +3,7 @@ The use of streaming and software subscriptions makes it difficult for individua
 
 # Scope of the project
 Scope of the Project
-
 The scope defines exactly what the Subscription Manager program is built to do, and what it is not built to do.
-
 1. Application Type
 
 Command-Line Interface (CLI): The program works only as a text-based tool. It does not have a graphical interface with buttons and windows.
