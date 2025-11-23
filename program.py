@@ -2,7 +2,7 @@ subscriptions = []
 
 def main():
     while True:
-        print("\n |Subscription Manager Menu")
+        print("\n |Subscription Manager Menu| ")
         print("1. Add New Subscription\n"
               "2. Delete Subscription\n"
               "3. View All Subscriptions & Total Cost\n"
