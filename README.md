@@ -116,6 +116,23 @@ Action 4.1: Choose 4 (Exit Program).
 Result: Program displays: "Thank you for using Subscription Manager." The program completely stops 
 
 # Screenshots
+1) Subscription Manager: Main Menu
 <img width="363" height="145" alt="Screenshot 2025-11-23 at 2 39 08 PM" src="https://github.com/user-attachments/assets/a1515c60-09d3-4d0a-8730-03075210eff5" />
+
+2) Adding Subscriptions and its total cost (choosing option 1):
+<img width="386" height="108" alt="Screenshot 2025-11-23 at 2 43 46 PM" src="https://github.com/user-attachments/assets/2ecdd65e-f980-4f6b-8658-77163026fb11" />
+
+<img width="375" height="113" alt="Screenshot 2025-11-23 at 2 43 59 PM" src="https://github.com/user-attachments/assets/3c5af1a6-4945-4688-b29b-d6189a89a625" />
+
+3) Viewing all subscription and cost (choosing option 3):
+ <img width="278" height="134" alt="Screenshot 2025-11-23 at 2 45 49 PM" src="https://github.com/user-attachments/assets/629c8dfb-fdbe-4c4e-b81d-c0a8c361e99c" />
+
+4) Removing the subscription and viewing the final subscription and cost ( choosing option 2 & 3):
+ <img width="575" height="67" alt="Screenshot 2025-11-23 at 2 48 08 PM" src="https://github.com/user-attachments/assets/6189a179-05f9-4d6a-93f5-0bb61d92016a" />
+
+<img width="301" height="104" alt="Screenshot 2025-11-23 at 2 48 34 PM" src="https://github.com/user-attachments/assets/6708c7fe-b15e-4b9e-807c-2302d7aaf133" />
+
+5) Closing the program:
+<img width="380" height="45" alt="Screenshot 2025-11-23 at 2 50 01 PM" src="https://github.com/user-attachments/assets/315ec0b6-c85c-49b8-b6d7-f20e52fa5ae7" />
 
 
