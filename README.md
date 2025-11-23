@@ -3,6 +3,7 @@ To help a user maintain a clear record of active subscriptions and calculate the
 
 # Overview of the project
 The main job of this tool is to help one person keep a clear list of all the things they pay for every month (like Netflix, Spotify, or mobile games). It helps the user know exactly how much money they spend on subscriptions each month. This is helpful for managing a budget.This project is small and simple. It only works for one user at a time.The system saves all the subscription details (like the name and cost) only while the program is running. 
+
 # Features
 Here are the main features it offers:
 
@@ -26,7 +27,9 @@ This choice closes the program properly and gives you a thank-you message.
 
 # Technologies/Tools used
 1)Language: Python 3
+
 2)Interface: Command Line Interface (CLI) / Terminal
+
 3)Libraries: Standard Python libraries 
 
 # Steps to install and Run the project
