@@ -60,36 +60,59 @@ Once the script starts, you will see the main menu. To use the tool, simply type
 2)Test Case 1: Adding and Viewing (Choices 1 and 3)
 
 Action 2.1: Choose 1 (Add New Subscription).
+
 Result: The program asks for the subscription name.
+
 Action 2.2: Enter Netflix (Name) and 600 (Cost).
+
 Result: The program confirms, "Added 'Netflix' with a cost of Rs600.0."
+
 Action 2.3: Choose 1 (Add New Subscription) again.
+
 Result: The program asks for the subscription name.
+
 Action 2.4: Enter Spotify (Name) and 150 (Cost).
+
 Result: The program confirms, "Added 'Spotify' with a cost of Rs150.0."
+
 Action 2.5: Choose 3 (View All Subscriptions & Total Cost).
+
 Result: Both 'Netflix' and 'Spotify' are shown in the list.
+
 Action 2.6: Check the Total Cost display.
+
 Result: The program displays the correct sum: Total Monthly cost: 750.0 (600 + 150).
 
 3)Test Case 2: Deleting (Choice 2)
 
 Action 3.1: Choose 2 (Delete Subscription).
+
 Result: The program asks for the name of the subscription to delete.
+
 Action 3.2: Enter Spotify.
+
 Result: The program confirms: "Entry Deleted: spotify".
+
 Action 3.3: Choose 3 (View All Subscriptions & Total Cost).
-Result: Only 'Netflix' is listed (Spotify is gone).
+
+Result: Only 'Netflix' is listed (Spotify is removed).
+
 Action 3.4: Check the Total Cost display.
+
 Result: The program displays the updated cost: Total Monthly cost: 600.0.
+
 Action 3.5: Choose 2 (Delete Subscription) again.
+
 Result: The program asks for the name.
+
 Action 3.6: Enter a name that is not on the list (e.g., Prime).
+
 Result: Program correctly displays: "No subscription found."
 
 4)Test Case 3: Exiting (Choice 4)
 
 Action 4.1: Choose 4 (Exit Program).
+
 Result: Program displays: "Thank you for using Subscription Manager." The program completely stops 
 
 # Screenshots
