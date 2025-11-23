@@ -116,3 +116,6 @@ Action 4.1: Choose 4 (Exit Program).
 Result: Program displays: "Thank you for using Subscription Manager." The program completely stops 
 
 # Screenshots
+<img width="363" height="145" alt="Screenshot 2025-11-23 at 2 39 08 PM" src="https://github.com/user-attachments/assets/a1515c60-09d3-4d0a-8730-03075210eff5" />
+
+
