@@ -24,10 +24,16 @@ Students: Those learning basics of python and wants to make an difficults code w
 
 # High level features
 1)Subscription Tracking:
+
 a)The program acts as a central digital list where the user can enter and store the names and corresponding monthly costs of their various subscriptions.
+
 2Total Cost Aggregation:
+
 a)This is the main benefit. The tool automatically adds up all the individual monthly subscription costs entered by the user.
+
 b)It provides the user with one clear, instant number: their total monthly spending on subscriptions. 
+
 Simple Management:
+
 a)The tool allows the user to easily view the complete list of all active services and delete any service they no longer pay for.
 
